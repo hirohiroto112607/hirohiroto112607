@@ -3,7 +3,8 @@
 
 ## Hello! 👋
 
-こんばんわ。  
+![](https://greetingbadge.hirohiroto112607.f5.si/api/badge)
+ 
 実験的なコードやちょっと変わったアイデアを形にするのが好きな **hirohiroto112607** です。  
 
 ### 💻 主な活動
